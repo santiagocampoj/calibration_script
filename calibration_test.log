@@ -1,0 +1,22 @@
+2025-10-01 16:39:17,732 - INFO - Processing files in: \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\3-Medidas
+2025-10-01 16:39:17,732 - INFO - Lower bound: 166.0
+2025-10-01 16:39:17,733 - INFO - Upper bound: 169.0
+2025-10-01 16:39:17,733 - INFO - Threshold multifuntion: 94
+2025-10-01 16:39:17,733 - INFO - Calibration coefficient: None
+2025-10-01 16:39:17,733 - INFO - Lineal differenciation: False
+2025-10-01 16:39:17,733 - INFO - 
+2025-10-01 16:39:18,935 - INFO - Found 2 folders to process.
+2025-10-01 16:39:18,942 - INFO - Processing audio files in: \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\3-Medidas\AUDIOMOTH...
+2025-10-01 16:39:18,942 - WARNING - No audio files found in: \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\3-Medidas\AUDIOMOTH\AUDIO
+2025-10-01 16:39:18,942 - INFO - Processing audio files in: \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\3-Medidas\test_martin_bash...
+2025-10-01 16:39:18,943 - INFO - Processing audio file: 20250911_130300.wav
+2025-10-01 16:39:21,431 - INFO - Sample rate: 44100 Hz
+2025-10-01 16:39:21,431 - INFO - Duration: 60.0 seconds
+2025-10-01 16:39:26,435 - INFO - Output saved to \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\5-Results\test_martin_bash\AUDIO\20250911_130300_test.csv
+2025-10-01 16:39:26,935 - INFO - Output saved to \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\5-Results\test_martin_bash\AUDIO\20250911_130300_little.csv
+2025-10-01 16:39:26,935 - INFO - Plotting calibration test
+2025-10-01 16:39:27,974 - INFO - Plot saved to \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\5-Results\test_martin_bash\AUDIO\calibration_test_20250911_130300.png
+2025-10-01 16:39:27,974 - INFO - Calibration test plot saved to: \\192.168.205.115\aac_server\CALIBRATION\AAC_SENSOR\test_martin\5-Results\test_martin_bash\AUDIO\calibration_test_20250911_130300.png
+2025-10-01 16:39:27,974 - INFO - Skipping lineal differenciation
+2025-10-01 16:39:27,975 - INFO - 
+2025-10-01 16:39:27,975 - INFO - Processing finished.
